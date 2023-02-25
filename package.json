@@ -1,6 +1,6 @@
 {
-  "name": "@emon/gradient-color-generator",
-  "version": "1.0.0",
+  "name": "gradient-color-generator",
+  "version": "1.0.1",
   "private": false,
   "description": "Gradient color generator",
   "author": "Md Wahiduzzaman Emon",
@@ -17,17 +17,21 @@
     "javascript",
     "javascript gradient color generator",
     "javascript gradient color",
-    "javascript color generator"
+    "javascript color generator",
+	"javascript color",
+	"javascript gradient",
+	"javascript gradient color generator",
+	"javascript gradient color"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MdWahiduzzamanEmon/React-Loader-Progressbar.git"
+    "url": "git+https://github.com/MdWahiduzzamanEmon/emon-Gradient_Color_NPM_Package"
   },
   "bugs": {
-    "url": "https://github.com/MdWahiduzzamanEmon/React-Loader-Progressbar/issues"
+    "url": "https://github.com/MdWahiduzzamanEmon/emon-Gradient_Color_NPM_Package/issues"
   },
-  "homepage": "https://github.com/MdWahiduzzamanEmon/React-Loader-Progressbar#readme"
+  "homepage": "https://github.com/MdWahiduzzamanEmon/emon-Gradient_Color_NPM_Package#readme"
 }
